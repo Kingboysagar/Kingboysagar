@@ -7,7 +7,7 @@ hiding sometime my info
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
-- This Directory For Images Only For My Projech 
+- This Directory For Images Only For My Creating Projech 
 
 <!---
 Kingboysagar/Kingboysagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
